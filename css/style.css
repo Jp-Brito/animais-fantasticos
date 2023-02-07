@@ -53,6 +53,12 @@ body {
   letter-spacing: 0.1em;
 }
 
+.menu a {
+  text-decoration: none;
+  color: #222;
+  font-size: 1rem;
+}
+
 .grid-section {
   grid-column: 2/4;
   width: 100%;
