@@ -15,7 +15,7 @@ export default class Accordion {
     });
   }
 
-  ini() {
+  init() {
     if (this.accordionList.length) {
       this.toggleAccordion(this.accordionList[0]);
       this.addAccordionEvent();
